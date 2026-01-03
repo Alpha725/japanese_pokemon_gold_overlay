@@ -1,0 +1,1257 @@
+{
+    "3F": {
+        "name": "Abra",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5b/Spr_2g_063.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/09/Ani063MS.png"
+    },
+    "8E": {
+        "name": "Aerodactyl",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/31/Spr_2g_142.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0c/Ani142MS.png"
+    },
+    "BE": {
+        "name": "Aipom",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/18/Spr_2g_190.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/78/Ani190MS.png"
+    },
+    "41": {
+        "name": "Alakazam",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/34/Spr_2g_065.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c7/Ani065MS.png"
+    },
+    "B5": {
+        "name": "Ampharos",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c5/Spr_2g_181.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/29/Ani181MS.png"
+    },
+    "18": {
+        "name": "Arbok",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0d/Spr_2g_024.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d8/Ani024MS.png"
+    },
+    "3B": {
+        "name": "Arcanine",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/29/Spr_2g_059.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8e/Ani059MS.png"
+    },
+    "A8": {
+        "name": "Ariados",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c5/Spr_2g_168.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c2/Ani168MS.png"
+    },
+    "90": {
+        "name": "Articuno",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/92/Spr_2g_144.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/40/Ani144MS.png"
+    },
+    "B8": {
+        "name": "Azumarill",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a5/Spr_2g_184.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3d/Ani184MS.png"
+    },
+    "99": {
+        "name": "Bayleef",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0d/Spr_2g_153.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/19/Ani153MS.png"
+    },
+    "0F": {
+        "name": "Beedrill",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5c/Spr_2g_015.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/48/Ani015MS.png"
+    },
+    "B6": {
+        "name": "Bellossom",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7d/Spr_2g_182.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a3/Ani182MS.png"
+    },
+    "45": {
+        "name": "Bellsprout",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/53/Spr_2g_069.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/59/Ani069MS.png"
+    },
+    "09": {
+        "name": "Blastoise",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c8/Spr_2g_009.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/96/Ani009MS.png"
+    },
+    "F2": {
+        "name": "Blissey",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d8/Spr_2g_242.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b5/Ani242MS.png"
+    },
+    "01": {
+        "name": "Bulbasaur",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/ad/Spr_2g_001.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/35/Ani001MS.png"
+    },
+    "0C": {
+        "name": "Butterfree",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7c/Spr_2g_012.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/93/Ani012MS.png"
+    },
+    "0A": {
+        "name": "Caterpie",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b1/Spr_2g_010.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/83/Ani010MS.png"
+    },
+    "FB": {
+        "name": "Celebi",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d0/Spr_2g_251.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4b/Ani251MS.png"
+    },
+    "71": {
+        "name": "Chansey",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5e/Spr_2g_113.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/78/Ani113MS.png"
+    },
+    "06": {
+        "name": "Charizard",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/cc/Spr_2g_006.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/29/Ani006MS.png"
+    },
+    "04": {
+        "name": "Charmander",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6f/Spr_2g_004.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/62/Ani004MS.png"
+    },
+    "05": {
+        "name": "Charmeleon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f3/Spr_2g_005.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2c/Ani005MS.png"
+    },
+    "98": {
+        "name": "Chikorita",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2c/Spr_2g_152.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4a/Ani152MS.png"
+    },
+    "AA": {
+        "name": "Chinchou",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e1/Spr_2g_170.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d3/Ani170MS.png"
+    },
+    "24": {
+        "name": "Clefable",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f8/Spr_2g_036.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/df/Ani036MS.png"
+    },
+    "23": {
+        "name": "Clefairy",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d1/Spr_2g_035.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d9/Ani035MS.png"
+    },
+    "AD": {
+        "name": "Cleffa",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6c/Spr_2g_173.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4d/Ani173MS.png"
+    },
+    "5B": {
+        "name": "Cloyster",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d1/Spr_2g_091.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/50/Ani091MS.png"
+    },
+    "DE": {
+        "name": "Corsola",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/12/Spr_2g_222.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/11/Ani222MS.png"
+    },
+    "A9": {
+        "name": "Crobat",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f5/Spr_2g_169.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/70/Ani169MS.png"
+    },
+    "9F": {
+        "name": "Croconaw",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d4/Spr_2g_159.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/63/Ani159MS.png"
+    },
+    "68": {
+        "name": "Cubone",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/fb/Spr_2g_104.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5e/Ani104MS.png"
+    },
+    "9B": {
+        "name": "Cyndaquil",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/56/Spr_2g_155.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/1a/Ani155MS.png"
+    },
+    "E1": {
+        "name": "Delibird",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/43/Spr_2g_225.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8c/Ani225MS.png"
+    },
+    "57": {
+        "name": "Dewgong",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3e/Spr_2g_087.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/16/Ani087MS.png"
+    },
+    "32": {
+        "name": "Diglett",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b8/Spr_2g_050.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5b/Ani050MS.png"
+    },
+    "84": {
+        "name": "Ditto",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9f/Spr_2g_132.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c0/Ani132MS.png"
+    },
+    "55": {
+        "name": "Dodrio",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/55/Spr_2g_085.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/ec/Ani085MS.png"
+    },
+    "54": {
+        "name": "Doduo",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0b/Spr_2g_084.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/93/Ani084MS.png"
+    },
+    "E8": {
+        "name": "Donphan",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f6/Spr_2g_232.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a4/Ani232MS.png"
+    },
+    "94": {
+        "name": "Dragonair",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/4f/Spr_2g_148.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/13/Ani148MS.png"
+    },
+    "95": {
+        "name": "Dragonite",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/af/Spr_2g_149.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8a/Ani149MS.png"
+    },
+    "93": {
+        "name": "Dratini",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/cb/Spr_2g_147.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/41/Ani147MS.png"
+    },
+    "60": {
+        "name": "Drowzee",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/08/Spr_2g_096.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8e/Ani096MS.png"
+    },
+    "33": {
+        "name": "Dugtrio",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/68/Spr_2g_051.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/be/Ani051MS.png"
+    },
+    "CE": {
+        "name": "Dunsparce",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e3/Spr_2g_206.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/85/Ani206MS.png"
+    },
+    "85": {
+        "name": "Eevee",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/15/Spr_2g_133.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/64/Ani133MS.png"
+    },
+    "17": {
+        "name": "Ekans",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/ae/Spr_2g_023.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/34/Ani023MS.png"
+    },
+    "7D": {
+        "name": "Electabuzz",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a8/Spr_2g_125.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/dd/Ani125MS.png"
+    },
+    "65": {
+        "name": "Electrode",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/23/Spr_2g_101.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/9a/Ani101MS.png"
+    },
+    "EF": {
+        "name": "Elekid",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6c/Spr_2g_239.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7b/Ani239MS.png"
+    },
+    "F4": {
+        "name": "Entei",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3b/Spr_2g_244.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/eb/Ani244MS.png"
+    },
+    "C4": {
+        "name": "Espeon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e9/Spr_2g_196.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/88/Ani196MS.png"
+    },
+    "66": {
+        "name": "Exeggcute",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f3/Spr_2g_102.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/68/Ani102MS.png"
+    },
+    "67": {
+        "name": "Exeggutor",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/37/Spr_2g_103.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/62/Ani103MS.png"
+    },
+    "53": {
+        "name": "Farfetch'd",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/66/Spr_2g_083.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/54/Ani083MS.png"
+    },
+    "16": {
+        "name": "Fearow",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a0/Spr_2g_022.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6a/Ani022MS.png"
+    },
+    "A0": {
+        "name": "Feraligatr",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/4d/Spr_2g_160.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/10/Ani160MS.png"
+    },
+    "B4": {
+        "name": "Flaaffy",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/fa/Spr_2g_180.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/60/Ani180MS.png"
+    },
+    "88": {
+        "name": "Flareon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f4/Spr_2g_136.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2d/Ani136MS.png"
+    },
+    "CD": {
+        "name": "Forretress",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/17/Spr_2g_205.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/81/Ani205MS.png"
+    },
+    "A2": {
+        "name": "Furret",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9a/Spr_2g_162.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/fa/Ani162MS.png"
+    },
+    "5C": {
+        "name": "Gastly",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f1/Spr_2g_092.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6c/Ani092MS.png"
+    },
+    "5E": {
+        "name": "Gengar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6a/Spr_2g_094.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/18/Ani094MS.png"
+    },
+    "4A": {
+        "name": "Geodude",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/1a/Spr_2g_074.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b4/Ani074MS.png"
+    },
+    "CB": {
+        "name": "Girafarig",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/23/Spr_2g_203.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7c/Ani203MS.png"
+    },
+    "CF": {
+        "name": "Gligar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9f/Spr_2g_207.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3a/Ani207MS.png"
+    },
+    "2C": {
+        "name": "Gloom",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/58/Spr_2g_044.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7d/Ani044MS.png"
+    },
+    "2A": {
+        "name": "Golbat",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/06/Spr_2g_042.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2e/Ani042MS.png"
+    },
+    "76": {
+        "name": "Goldeen",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/eb/Spr_2g_118.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/16/Ani118MS.png"
+    },
+    "37": {
+        "name": "Golduck",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e3/Spr_2g_055.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/fd/Ani055MS.png"
+    },
+    "4C": {
+        "name": "Golem",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/96/Spr_2g_076.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/58/Ani076MS.png"
+    },
+    "D2": {
+        "name": "Granbull",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/08/Spr_2g_210.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8c/Ani210MS.png"
+    },
+    "4B": {
+        "name": "Graveler",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2b/Spr_2g_075.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/09/Ani075MS.png"
+    },
+    "58": {
+        "name": "Grimer",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/98/Spr_2g_088.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/ab/Ani088MS.png"
+    },
+    "3A": {
+        "name": "Growlithe",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/08/Spr_2g_058.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a8/Ani058MS.png"
+    },
+    "82": {
+        "name": "Gyarados",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/fb/Spr_2g_130.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d1/Ani130MS.png"
+    },
+    "5D": {
+        "name": "Haunter",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bb/Spr_2g_093.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e2/Ani093MS.png"
+    },
+    "D6": {
+        "name": "Heracross",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/8d/Spr_2g_214.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/9e/Ani214MS.png"
+    },
+    "6B": {
+        "name": "Hitmonchan",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2e/Spr_2g_107.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3a/Ani107MS.png"
+    },
+    "6A": {
+        "name": "Hitmonlee",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/06/Spr_2g_106.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0d/Ani106MS.png"
+    },
+    "ED": {
+        "name": "Hitmontop",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2e/Spr_2g_237.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/38/Ani237MS.png"
+    },
+    "FA": {
+        "name": "Ho-Oh",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/54/Spr_2g_250.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/50/Ani250MS.png"
+    },
+    "A3": {
+        "name": "Hoothoot",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f0/Spr_2g_163.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0a/Ani163MS.png"
+    },
+    "BB": {
+        "name": "Hoppip",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/8d/Spr_2g_187.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5a/Ani187MS.png"
+    },
+    "74": {
+        "name": "Horsea",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/53/Spr_2g_116.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/51/Ani116MS.png"
+    },
+    "E5": {
+        "name": "Houndoom",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/39/Spr_2g_229.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0a/Ani229MS.png"
+    },
+    "E4": {
+        "name": "Houndour",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/38/Spr_2g_228.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c7/Ani228MS.png"
+    },
+    "61": {
+        "name": "Hypno",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3c/Spr_2g_097.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5b/Ani097MS.png"
+    },
+    "AE": {
+        "name": "Igglybuff",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b1/Spr_2g_174.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b4/Ani174MS.png"
+    },
+    "02": {
+        "name": "Ivysaur",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a0/Spr_2g_002.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/11/Ani002MS.png"
+    },
+    "27": {
+        "name": "Jigglypuff",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bc/Spr_2g_039.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e3/Ani039MS.png"
+    },
+    "87": {
+        "name": "Jolteon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b0/Spr_2g_135.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/14/Ani135MS.png"
+    },
+    "BD": {
+        "name": "Jumpluff",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/52/Spr_2g_189.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8a/Ani189MS.png"
+    },
+    "7C": {
+        "name": "Jynx",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2a/Spr_2g_124.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/54/Ani124MS.png"
+    },
+    "8C": {
+        "name": "Kabuto",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bd/Spr_2g_140.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f1/Ani140MS.png"
+    },
+    "8D": {
+        "name": "Kabutops",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9b/Spr_2g_141.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3d/Ani141MS.png"
+    },
+    "40": {
+        "name": "Kadabra",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bd/Spr_2g_064.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bf/Ani064MS.png"
+    },
+    "0E": {
+        "name": "Kakuna",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/86/Spr_2g_014.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0c/Ani014MS.png"
+    },
+    "73": {
+        "name": "Kangaskhan",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3d/Spr_2g_115.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d0/Ani115MS.png"
+    },
+    "E6": {
+        "name": "Kingdra",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a9/Spr_2g_230.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d8/Ani230MS.png"
+    },
+    "63": {
+        "name": "Kingler",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/99/Spr_2g_099.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/04/Ani099MS.png"
+    },
+    "6D": {
+        "name": "Koffing",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0a/Spr_2g_109.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c1/Ani109MS.png"
+    },
+    "62": {
+        "name": "Krabby",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c5/Spr_2g_098.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d4/Ani098MS.png"
+    },
+    "AB": {
+        "name": "Lanturn",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f7/Spr_2g_171.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c5/Ani171MS.png"
+    },
+    "83": {
+        "name": "Lapras",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/53/Spr_2g_131.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/1a/Ani131MS.png"
+    },
+    "F6": {
+        "name": "Larvitar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b1/Spr_2g_246.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/91/Ani246MS.png"
+    },
+    "A6": {
+        "name": "Ledian",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0c/Spr_2g_166.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/da/Ani166MS.png"
+    },
+    "A5": {
+        "name": "Ledyba",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/06/Spr_2g_165.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a7/Ani165MS.png"
+    },
+    "6C": {
+        "name": "Lickitung",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7b/Spr_2g_108.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d5/Ani108MS.png"
+    },
+    "F9": {
+        "name": "Lugia",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/8a/Spr_2g_249.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3f/Ani249MS.png"
+    },
+    "44": {
+        "name": "Machamp",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/85/Spr_2g_068.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cc/Ani068MS.png"
+    },
+    "43": {
+        "name": "Machoke",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f4/Spr_2g_067.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Ani067MS.png"
+    },
+    "42": {
+        "name": "Machop",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/15/Spr_2g_066.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/69/Ani066MS.png"
+    },
+    "F0": {
+        "name": "Magby",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a6/Spr_2g_240.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6e/Ani240MS.png"
+    },
+    "DB": {
+        "name": "Magcargo",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a7/Spr_2g_219.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0c/Ani219MS.png"
+    },
+    "81": {
+        "name": "Magikarp",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9e/Spr_2g_129.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/c5/Ani129MS.png"
+    },
+    "7E": {
+        "name": "Magmar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/92/Spr_2g_126.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/be/Ani126MS.png"
+    },
+    "51": {
+        "name": "Magnemite",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/44/Spr_2g_081.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d9/Ani081MS.png"
+    },
+    "52": {
+        "name": "Magneton",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5a/Spr_2g_082.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/eb/Ani082MS.png"
+    },
+    "38": {
+        "name": "Mankey",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/16/Spr_2g_056.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/14/Ani056MS.png"
+    },
+    "E2": {
+        "name": "Mantine",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a2/Spr_2g_226.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3f/Ani226MS.png"
+    },
+    "B3": {
+        "name": "Mareep",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6d/Spr_2g_179.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/9c/Ani179MS.png"
+    },
+    "B7": {
+        "name": "Marill",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/27/Spr_2g_183.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/69/Ani183MS.png"
+    },
+    "69": {
+        "name": "Marowak",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bd/Spr_2g_105.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6e/Ani105MS.png"
+    },
+    "9A": {
+        "name": "Meganium",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b6/Spr_2g_154.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/74/Ani154MS.png"
+    },
+    "34": {
+        "name": "Meowth",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b0/Spr_2g_052.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/db/Ani052MS.png"
+    },
+    "0B": {
+        "name": "Metapod",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/21/Spr_2g_011.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/04/Ani011MS.png"
+    },
+    "97": {
+        "name": "Mew",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/ae/Spr_2g_151.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cd/Ani151MS.png"
+    },
+    "96": {
+        "name": "Mewtwo",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/1a/Spr_2g_150.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f1/Ani150MS.png"
+    },
+    "F1": {
+        "name": "Miltank",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/eb/Spr_2g_241.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/62/Ani241MS.png"
+    },
+    "C8": {
+        "name": "Misdreavus",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/4c/Spr_2g_200.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d2/Ani200MS.png"
+    },
+    "92": {
+        "name": "Moltres",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c3/Spr_2g_146.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3f/Ani146MS.png"
+    },
+    "7A": {
+        "name": "Mr. Mime",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6f/Spr_2g_122.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/11/Ani122MS.png"
+    },
+    "59": {
+        "name": "Muk",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/66/Spr_2g_089.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/41/Ani089MS.png"
+    },
+    "C6": {
+        "name": "Murkrow",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/08/Spr_2g_198.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cb/Ani198MS.png"
+    },
+    "B1": {
+        "name": "Natu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0d/Spr_2g_177.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/63/Ani177MS.png"
+    },
+    "22": {
+        "name": "Nidoking",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/54/Spr_2g_034.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2e/Ani034MS.png"
+    },
+    "1F": {
+        "name": "Nidoqueen",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/46/Spr_2g_031.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/59/Ani031MS.png"
+    },
+    "1D": {
+        "name": "Nidoran♀",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Spr_2g_029.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/29/Ani029MS.png"
+    },
+    "20": {
+        "name": "Nidoran♂",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3e/Spr_2g_032.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/82/Ani032MS.png"
+    },
+    "1E": {
+        "name": "Nidorina",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/24/Spr_2g_030.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f3/Ani030MS.png"
+    },
+    "21": {
+        "name": "Nidorino",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f2/Spr_2g_033.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/1d/Ani033MS.png"
+    },
+    "26": {
+        "name": "Ninetales",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f0/Spr_2g_038.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/50/Ani038MS.png"
+    },
+    "A4": {
+        "name": "Noctowl",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/65/Spr_2g_164.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a2/Ani164MS.png"
+    },
+    "E0": {
+        "name": "Octillery",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f4/Spr_2g_224.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/18/Ani224MS.png"
+    },
+    "2B": {
+        "name": "Oddish",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/90/Spr_2g_043.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d2/Ani043MS.png"
+    },
+    "8A": {
+        "name": "Omanyte",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/04/Spr_2g_138.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/34/Ani138MS.png"
+    },
+    "8B": {
+        "name": "Omastar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2f/Spr_2g_139.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3a/Ani139MS.png"
+    },
+    "5F": {
+        "name": "Onix",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/98/Spr_2g_095.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d0/Ani095MS.png"
+    },
+    "2E": {
+        "name": "Paras",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b4/Spr_2g_046.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/39/Ani046MS.png"
+    },
+    "2F": {
+        "name": "Parasect",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/aa/Spr_2g_047.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/21/Ani047MS.png"
+    },
+    "35": {
+        "name": "Persian",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/49/Spr_2g_053.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b7/Ani053MS.png"
+    },
+    "E7": {
+        "name": "Phanpy",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/06/Spr_2g_231.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/1d/Ani231MS.png"
+    },
+    "AC": {
+        "name": "Pichu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Spr_2g_172.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4e/Ani172MS.png"
+    },
+    "12": {
+        "name": "Pidgeot",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b1/Spr_2g_018.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5d/Ani018MS.png"
+    },
+    "11": {
+        "name": "Pidgeotto",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/19/Spr_2g_017.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/40/Ani017MS.png"
+    },
+    "10": {
+        "name": "Pidgey",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/19/Spr_2g_016.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e4/Ani016MS.png"
+    },
+    "19": {
+        "name": "Pikachu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d9/Spr_2g_025.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f7/Ani025MS.png"
+    },
+    "DD": {
+        "name": "Piloswine",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/22/Spr_2g_221.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/37/Ani221MS.png"
+    },
+    "CC": {
+        "name": "Pineco",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e2/Spr_2g_204.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/62/Ani204MS.png"
+    },
+    "7F": {
+        "name": "Pinsir",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3f/Spr_2g_127.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/93/Ani127MS.png"
+    },
+    "BA": {
+        "name": "Politoed",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/92/Spr_2g_186.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e4/Ani186MS.png"
+    },
+    "3C": {
+        "name": "Poliwag",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/ba/Spr_2g_060.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/ea/Ani060MS.png"
+    },
+    "3D": {
+        "name": "Poliwhirl",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/40/Spr_2g_061.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e5/Ani061MS.png"
+    },
+    "3E": {
+        "name": "Poliwrath",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e7/Spr_2g_062.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e7/Ani062MS.png"
+    },
+    "4D": {
+        "name": "Ponyta",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/09/Spr_2g_077.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4c/Ani077MS.png"
+    },
+    "89": {
+        "name": "Porygon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/1b/Spr_2g_137.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/1f/Ani137MS.png"
+    },
+    "E9": {
+        "name": "Porygon2",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e2/Spr_2g_233.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0f/Ani233MS.png"
+    },
+    "39": {
+        "name": "Primeape",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/79/Spr_2g_057.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0b/Ani057MS.png"
+    },
+    "36": {
+        "name": "Psyduck",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/dd/Spr_2g_054.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bc/Ani054MS.png"
+    },
+    "F7": {
+        "name": "Pupitar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/76/Spr_2g_247.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/ec/Ani247MS.png"
+    },
+    "C3": {
+        "name": "Quagsire",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/70/Spr_2g_195.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bd/Ani195MS.png"
+    },
+    "9C": {
+        "name": "Quilava",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2f/Spr_2g_156.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/47/Ani156MS.png"
+    },
+    "D3": {
+        "name": "Qwilfish",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/15/Spr_2g_211.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/ab/Ani211MS.png"
+    },
+    "1A": {
+        "name": "Raichu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/61/Spr_2g_026.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/55/Ani026MS.png"
+    },
+    "F3": {
+        "name": "Raikou",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5a/Spr_2g_243.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e1/Ani243MS.png"
+    },
+    "4E": {
+        "name": "Rapidash",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/44/Spr_2g_078.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2c/Ani078MS.png"
+    },
+    "14": {
+        "name": "Raticate",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e9/Spr_2g_020.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e2/Ani020MS.png"
+    },
+    "13": {
+        "name": "Rattata",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0e/Spr_2g_019.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/26/Ani019MS.png"
+    },
+    "DF": {
+        "name": "Remoraid",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/02/Spr_2g_223.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6f/Ani223MS.png"
+    },
+    "70": {
+        "name": "Rhydon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f3/Spr_2g_112.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/48/Ani112MS.png"
+    },
+    "6F": {
+        "name": "Rhyhorn",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/52/Spr_2g_111.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5f/Ani111MS.png"
+    },
+    "1B": {
+        "name": "Sandshrew",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bb/Spr_2g_027.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8a/Ani027MS.png"
+    },
+    "1C": {
+        "name": "Sandslash",
+        "sprite": "https://archives.bulbagarden.net/media/upload/0/0b/Spr_2g_028.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Ani028MS.png"
+    },
+    "D4": {
+        "name": "Scizor",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/1b/Spr_2g_212.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b4/Ani212MS.png"
+    },
+    "7B": {
+        "name": "Scyther",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c0/Spr_2g_123.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/21/Ani123MS.png"
+    },
+    "75": {
+        "name": "Seadra",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3e/Spr_2g_117.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cd/Ani117MS.png"
+    },
+    "77": {
+        "name": "Seaking",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/ee/Spr_2g_119.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e7/Ani119MS.png"
+    },
+    "56": {
+        "name": "Seel",
+        "sprite": "https://archives.bulbagarden.net/media/upload/c/c0/Spr_2g_086.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b4/Ani086MS.png"
+    },
+    "A1": {
+        "name": "Sentret",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Spr_2g_161.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/65/Ani161MS.png"
+    },
+    "5A": {
+        "name": "Shellder",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3b/Spr_2g_090.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bb/Ani090MS.png"
+    },
+    "D5": {
+        "name": "Shuckle",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5b/Spr_2g_213.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/89/Ani213MS.png"
+    },
+    "E3": {
+        "name": "Skarmory",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a3/Spr_2g_227.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/31/Ani227MS.png"
+    },
+    "BC": {
+        "name": "Skiploom",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/ed/Spr_2g_188.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/91/Ani188MS.png"
+    },
+    "50": {
+        "name": "Slowbro",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/22/Spr_2g_080.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/9d/Ani080MS.png"
+    },
+    "C7": {
+        "name": "Slowking",
+        "sprite": "https://archives.bulbagarden.net/media/upload/9/9d/Spr_2g_199.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/fd/Ani199MS.png"
+    },
+    "4F": {
+        "name": "Slowpoke",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/3e/Spr_2g_079.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/dd/Ani079MS.png"
+    },
+    "DA": {
+        "name": "Slugma",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/ef/Spr_2g_218.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/64/Ani218MS.png"
+    },
+    "EB": {
+        "name": "Smeargle",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/16/Spr_2g_235.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bc/Ani235MS.png"
+    },
+    "EE": {
+        "name": "Smoochum",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/25/Spr_2g_238.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/0/0a/Ani238MS.png"
+    },
+    "D7": {
+        "name": "Sneasel",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/32/Spr_2g_215.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/3a/Ani215MS.png"
+    },
+    "8F": {
+        "name": "Snorlax",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/5d/Spr_2g_143.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/12/Ani143MS.png"
+    },
+    "D1": {
+        "name": "Snubbull",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/36/Spr_2g_209.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/d/d4/Ani209MS.png"
+    },
+    "15": {
+        "name": "Spearow",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/20/Spr_2g_021.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6d/Ani021MS.png"
+    },
+    "A7": {
+        "name": "Spinarak",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e2/Spr_2g_167.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/62/Ani167MS.png"
+    },
+    "07": {
+        "name": "Squirtle",
+        "sprite": "https://archives.bulbagarden.net/media/upload/3/34/Spr_2g_007.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8a/Ani007MS.png"
+    },
+    "EA": {
+        "name": "Stantler",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bf/Spr_2g_234.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4f/Ani234MS.png"
+    },
+    "79": {
+        "name": "Starmie",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/53/Spr_2g_121.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/19/Ani121MS.png"
+    },
+    "78": {
+        "name": "Staryu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d1/Spr_2g_120.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/10/Ani120MS.png"
+    },
+    "D0": {
+        "name": "Steelix",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/de/Spr_2g_208.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f4/Ani208MS.png"
+    },
+    "B9": {
+        "name": "Sudowoodo",
+        "sprite": "https://archives.bulbagarden.net/media/upload/e/e1/Spr_2g_185.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/ef/Ani185MS.png"
+    },
+    "F5": {
+        "name": "Suicune",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Spr_2g_245.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cd/Ani245MS.png"
+    },
+    "C0": {
+        "name": "Sunflora",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/be/Spr_2g_192.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e3/Ani192MS.png"
+    },
+    "BF": {
+        "name": "Sunkern",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/83/Spr_2g_191.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/30/Ani191MS.png"
+    },
+    "DC": {
+        "name": "Swinub",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/27/Spr_2g_220.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/2/2b/Ani220MS.png"
+    },
+    "72": {
+        "name": "Tangela",
+        "sprite": "https://archives.bulbagarden.net/media/upload/4/4a/Spr_2g_114.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6a/Ani114MS.png"
+    },
+    "80": {
+        "name": "Tauros",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/75/Spr_2g_128.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8f/Ani128MS.png"
+    },
+    "D8": {
+        "name": "Teddiursa",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/87/Spr_2g_216.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6e/Ani216MS.png"
+    },
+    "48": {
+        "name": "Tentacool",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/8e/Spr_2g_072.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/ef/Ani072MS.png"
+    },
+    "49": {
+        "name": "Tentacruel",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/71/Spr_2g_073.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/88/Ani073MS.png"
+    },
+    "AF": {
+        "name": "Togepi",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/be/Spr_2g_175.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f1/Ani175MS.png"
+    },
+    "B0": {
+        "name": "Togetic",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2f/Spr_2g_176.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e4/Ani176MS.png"
+    },
+    "9E": {
+        "name": "Totodile",
+        "sprite": "https://archives.bulbagarden.net/media/upload/7/72/Spr_2g_158.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/ce/Ani158MS.png"
+    },
+    "9D": {
+        "name": "Typhlosion",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b9/Spr_2g_157.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8e/Ani157MS.png"
+    },
+    "F8": {
+        "name": "Tyranitar",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bb/Spr_2g_248.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/59/Ani248MS.png"
+    },
+    "EC": {
+        "name": "Tyrogue",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/ac/Spr_2g_236.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7a/Ani236MS.png"
+    },
+    "C5": {
+        "name": "Umbreon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bc/Spr_2g_197.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cb/Ani197MS.png"
+    },
+    "C9": {
+        "name": "Unown",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/62/Spr_2g_201.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a3/Ani201QUMS.png"
+    },
+    "D9": {
+        "name": "Ursaring",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/6b/Spr_2g_217.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/55/Ani217MS.png"
+    },
+    "86": {
+        "name": "Vaporeon",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2c/Spr_2g_134.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/47/Ani134MS.png"
+    },
+    "31": {
+        "name": "Venomoth",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/f9/Spr_2g_049.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/6b/Ani049MS.png"
+    },
+    "30": {
+        "name": "Venonat",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d9/Spr_2g_048.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e6/Ani048MS.png"
+    },
+    "03": {
+        "name": "Venusaur",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/64/Spr_2g_003.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/8/8e/Ani003MS.png"
+    },
+    "47": {
+        "name": "Victreebel",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/ad/Spr_2g_071.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5f/Ani071MS.png"
+    },
+    "2D": {
+        "name": "Vileplume",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/29/Spr_2g_045.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/a/a7/Ani045MS.png"
+    },
+    "64": {
+        "name": "Voltorb",
+        "sprite": "https://archives.bulbagarden.net/media/upload/1/11/Spr_2g_100.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/bf/Ani100MS.png"
+    },
+    "25": {
+        "name": "Vulpix",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/b7/Spr_2g_037.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/b/b0/Ani037MS.png"
+    },
+    "08": {
+        "name": "Wartortle",
+        "sprite": "https://archives.bulbagarden.net/media/upload/6/63/Spr_2g_008.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/5/5d/Ani008MS.png"
+    },
+    "0D": {
+        "name": "Weedle",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/51/Spr_2g_013.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e5/Ani013MS.png"
+    },
+    "46": {
+        "name": "Weepinbell",
+        "sprite": "https://archives.bulbagarden.net/media/upload/5/58/Spr_2g_070.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/6/60/Ani070MS.png"
+    },
+    "6E": {
+        "name": "Weezing",
+        "sprite": "https://archives.bulbagarden.net/media/upload/f/fb/Spr_2g_110.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/9/90/Ani110MS.png"
+    },
+    "28": {
+        "name": "Wigglytuff",
+        "sprite": "https://archives.bulbagarden.net/media/upload/b/bd/Spr_2g_040.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/4/4c/Ani040MS.png"
+    },
+    "CA": {
+        "name": "Wobbuffet",
+        "sprite": "https://archives.bulbagarden.net/media/upload/a/a4/Spr_2g_202.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/e/e7/Ani202MS.png"
+    },
+    "C2": {
+        "name": "Wooper",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d1/Spr_2g_194.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/f/f6/Ani194MS.png"
+    },
+    "B2": {
+        "name": "Xatu",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d0/Spr_2g_178.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/3/34/Ani178MS.png"
+    },
+    "C1": {
+        "name": "Yanma",
+        "sprite": "https://archives.bulbagarden.net/media/upload/2/2a/Spr_2g_193.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/c/cb/Ani193MS.png"
+    },
+    "91": {
+        "name": "Zapdos",
+        "sprite": "https://archives.bulbagarden.net/media/upload/d/d8/Spr_2g_145.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/1/15/Ani145MS.png"
+    },
+    "29": {
+        "name": "Zubat",
+        "sprite": "https://archives.bulbagarden.net/media/upload/8/89/Spr_2g_041.png",
+        "party_sprite": "https://archives.bulbagarden.net/media/upload/7/7d/Ani041MS.png"
+    }
+}

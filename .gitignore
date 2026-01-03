@@ -1,0 +1,8 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/

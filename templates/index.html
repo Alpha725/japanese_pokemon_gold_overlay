@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OBS Dashboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 1920px;
+            height: 1080px;
+            background-color: transparent; /* Transparent for OBS */
+            font-family: sans-serif;
+            color: white;
+            display: flex;
+            overflow: hidden;
+        }
+
+        /* The 373px Left Sidebar */
+        #left-rail {
+            width: 373px;
+            height: 1080px;
+            background: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* The Center Source (1150px wide) */
+        #center-source {
+            width: 1174px;
+            height: 1080px;
+        }
+
+        /* The 373px Right Sidebar */
+        #right-rail {
+            width: 373px;
+            height: 1080px;
+            background: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Sections within the Left Rail */
+        .section {
+            width: 100%;
+            border-bottom: 1px solid #444;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        th {
+          text-align: left;
+          padding-right: 10px;
+        }
+
+        td {
+          text-align: left;
+          padding-right: 10px;
+        }
+
+        .h-180 { height: 180px; }
+        .h-300 { height: 300px; }
+        .h-80  { height: 80px;  }
+        .h-50  { height: 50px;  }
+        .h-230 { height: 230px; }
+        .h-460 { height: 460px; }
+
+    </style>
+</head>
+<body>
+
+    <div id="left-rail">
+        <div id="badge-space" class="section h-180">Badge Placeholder</div>
+        <div id="lead-poke-sprite" class="section h-180">Lead Pokemon</div>
+        <div id="party-poke-sprites" class="section h-80">Party Pokemon</div>
+        <div id="lead-lvl-happiness" class="section h-50">Lead Level and happiness</div>
+        <div id="lead-held-item" class="section h-50">Held item</div>
+        <div id="lead-moves" class="section h-180">Lead Moves</div>
+        <div id="lead-stats" class="section h-80">Lead stats</div>
+        <div id="lead-dvs" class="section h-80">Lead Dvs</div>
+        <div id="player-info" class="section h-80">ID and Money</div>
+    </div>
+
+    <div id="center-source">
+        </div>
+
+    <div id="right-rail">
+        <div id="enemy-pokemon-sprite" class="section h-180">Enemy Pokemon</div>
+        <div id="enemy-level" class="section h-50">Enemy level</div>
+        <div id="enemy-held-item" class="section h-50">Enemy held item</div>
+        <div id="enemy-moves" class="section h-180">Enemy Moves</div>
+        <div id="enemy-stats" class="section h-80">Enemy Stats</div>
+        <div id="enemy-dvs-or-team" class="section h-80">Enemy DVs/Team</div>
+        <div id="map" class="section h-460">map</div>
+    </div>
+
+    <script>
+        var socket = io();
+        // Listen for updates from Python
+        socket.on('update_data', function(msg) {
+            document.getElementById(msg.id).innerHTML = msg.content;
+        });
+    </script>
+</body>
+</html>

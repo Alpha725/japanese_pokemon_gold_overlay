@@ -1,0 +1,255 @@
+01,Master Ball
+02,Ultra Ball
+03,Brightpowder
+04,Great Ball
+05,Poké Ball
+06,Teru-sama
+07,Bicycle
+08,Moon Stone
+09,Antidote
+0A,Burn Heal
+0B,Ice Heal
+0C,Awakening
+0D,Paralyz Heal
+0E,Full Restore
+0F,Max Potion
+10,Hyper Potion
+11,Super Potion
+12,Potion
+13,Escape Rope
+14,Repel
+15,Max Elixer
+16,Fire Stone
+17,Thunderstone
+18,Water Stone
+19,Teru-sama
+1A,HP Up
+1B,Protein
+1C,Iron
+1D,Carbos
+1E,Lucky Punch
+1F,Calcium
+20,Rare Candy
+21,X Accuracy
+22,Leaf Stone
+23,Metal Powder
+24,Nugget
+25,Poké Doll
+26,Full Heal
+27,Revive
+28,Max Revive
+29,Guard Spec.
+2A,Super Repel
+2B,Max Repel
+2C,Dire Hit
+2D,Teru-sama
+2E,Fresh Water
+2F,Soda Pop
+30,Lemonade
+31,X Attack
+32,Teru-sama
+33,X Defend
+34,X Speed
+35,X Special
+36,Coin Case
+37,Itemfinder
+38,Teru-sama
+39,Exp. Share
+3A,Old Rod
+3B,Good Rod
+3C,Silver Leaf
+3D,Super Rod
+3E,PP Up
+3F,Ether
+40,Max Ether
+41,Elixer
+42,Red Scale
+43,Secretpotion
+44,S.S. Ticket
+45,Mystery Egg
+46,Clear Bell (Crystal)
+47,Silver Wing
+48,Moomoo Milk
+49,Quick Claw
+4A,Psncureberry
+4B,Gold Leaf
+4C,Soft Sand
+4D,Sharp Beak
+4E,Przcureberry
+4F,Burnt Berry
+50,Ice Berry
+51,Poison Barb
+52,King's Rock
+53,Bitter Berry
+54,Mint Berry
+55,Red Apricorn
+56,Tinymushroom
+57,Big Mushroom
+58,Silverpowder
+59,Blu Apricorn
+5A,Teru-sama
+5B,Amulet Coin
+5C,Ylw Apricorn
+5D,Grn Apricorn
+5E,Cleanse Tag
+5F,Mystic Water
+60,Twistedspoon
+61,Wht Apricorn
+62,Black Belt
+63,Blk Apricorn
+64,Teru-sama
+65,Pnk Apricorn
+66,Blackglasses
+67,Slowpoketail
+68,Pink Bow
+69,Stick
+6A,Smoke Ball
+6B,Nevermeltice
+6C,Magnet
+6D,Miracleberry
+6E,Pearl
+6F,Big Pearl
+70,Everstone
+71,Spell Tag
+72,Ragecandybar
+73,GS Ball (Crystal)
+74,Blue Card (Crystal)
+75,Miracle Seed
+76,Thick Club
+77,Focus Band
+78,Teru-sama
+79,Energypowder
+7A,Energy Root
+7B,Heal Powder
+7C,Revival Herb
+7D,Hard Stone
+7E,Lucky Egg
+7F,Card Key
+80,Machine Part
+81,Egg Ticket (Crystal)
+82,Lost Item
+83,Stardust
+84,Star Piece
+85,Basement Key
+86,Pass
+87,Teru-sama
+88,Teru-sama
+89,Teru-sama
+8A,Charcoal
+8B,Berry Juice
+8C,Scope Lens
+8D,Teru-sama
+8E,Teru-sama
+8F,Metal Coat
+90,Dragon Fang
+91,Teru-sama
+92,Leftovers
+93,Teru-sama
+94,Teru-sama
+95,Teru-sama
+96,Mysteryberry
+97,Dragon Scale
+98,Berserk Gene
+99,Teru-sama
+9A,Teru-sama
+9B,Teru-sama
+9C,Sacred Ash
+9D,Heavy Ball
+9E,Flower Mail
+9F,Level Ball
+A0,Lure Ball
+A1,Fast Ball
+A2,Teru-sama
+A3,Light Ball
+A4,Friend Ball
+A5,Moon Ball
+A6,Love Ball
+A7,Normal Box
+A8,Gorgeous Box
+A9,Sun Stone
+AA,Polkadot Bow
+AB,Teru-sama
+AC,Up-Grade
+AD,Berry
+AE,Gold Berry
+AF,Squirtbottle
+B0,Teru-sama
+B1,Park Ball
+B2,Rainbow Wing
+B3,Teru-sama
+B4,Brick Piece
+B5,Surf Mail
+B6,LiteBlue Mail
+B7,Portrait Mail
+B8,Lovely Mail
+B9,Eon Mail
+BA,Morph Mail
+BB,Blue Sky Mail
+BC,Music Mail
+BD,Mirage Mail
+BE,Teru-sama
+BF,TM01
+C0,TM02
+C1,TM03
+C2,TM04
+C3,TM04 (useless)
+C4,TM05
+C5,TM06
+C6,TM07
+C7,TM08
+C8,TM09
+C9,TM10
+CA,TM11
+CB,TM12
+CC,TM13
+CD,TM14
+CE,TM15
+CF,TM16
+D0,TM17
+D1,TM18
+D2,TM19
+D3,TM20
+D4,TM21
+D5,TM22
+D6,TM23
+D7,TM24
+D8,TM25
+D9,TM26
+DA,TM27
+DB,TM28
+DC,TM28 (useless)
+DD,TM29
+DE,TM30
+DF,TM31
+E0,TM32
+E1,TM33
+E2,TM34
+E3,TM35
+E4,TM36
+E5,TM37
+E6,TM38
+E7,TM39
+E8,TM40
+E9,TM41
+EA,TM42
+EB,TM43
+EC,TM44
+ED,TM45
+EE,TM46
+EF,TM47
+F0,TM48
+F1,TM49
+F2,TM50
+F3,HM01
+F4,HM02
+F5,HM03
+F6,HM04
+F7,HM05
+F8,HM06
+F9,HM07
+FA,HM08
+FB,HM09
+FC,HM10
+FD,HM11
+FE,HM12
+FF,CANCEL
