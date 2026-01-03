@@ -2,6 +2,18 @@
 
 [![Watch the video](https://img.youtube.com/vi/21M1D2h5FdA/maxresdefault.jpg)](https://www.youtube.com/watch?v=21M1D2h5FdA)
 
+Please ignore the random artifacting on the video. That is my work station/OBS settings causing that. The overlay is a web page 
+
+# Overview
+
+```mermaid 
+%% Overlay 
+graph LR
+	mGBA --> | lau | server.lua
+    server.lua --> | TCP | client.py
+	client.py --> | HTTP | overlay
+```
+
 # How to use
 
 You must be using the Emulator mGBA. 
@@ -40,6 +52,10 @@ Once the environment has been setup you will need to run the following:
 . bin/activate
 python3 client.py
 ```
+
+You can then visit http://127.0.0.1:5000 for your overlay. 
+
+I typically full screen it for use in OBS
 
 # Later improvements that can be made. 
 
